@@ -1,0 +1,17 @@
+.img {
+    width: 200px;
+    height: auto
+}
+
+h1 {
+    text-align: center;
+    background-color: lightgreen;
+}
+
+div {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.link {
+    color:red;
+}
